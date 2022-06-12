@@ -5,6 +5,6 @@ This code calulates number PI with Monte Carlo simulation.
 
 For building the project:
 ```
-git clone <repo path>
+git clone https://github.com/serkanaltuntas/go-monte-carlo-pi-simulation.git
 go build
 ```
